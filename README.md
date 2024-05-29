@@ -143,7 +143,6 @@ Seque aqui as ferramentas utilizadas na construção presente projeto:
 * [Angular](https://pt-br.legacy.Angularjs.org/)
 * [Node.js](https://nodejs.org/en/)
 * [Typescript](https://www.typescriptlang.org/docs/)
-* [Next.js Frameworks](https://nextjs.org/)
 * [Docker](https://www.docker.com/get-started/)
 * [NVM](https://github.com/nvm-sh/nvm?tab=readme-ov-file#intro) - Node Version Manager
 * [Terminal Shell Linux (WSL)](https://learn.microsoft.com/pt-br/windows/wsl/install)
