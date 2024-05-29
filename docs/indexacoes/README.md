@@ -10,8 +10,8 @@ E **o objetivo é fortalecer a fixação do conceito e o seu uso prátino no pro
 
 Até o momento, aplicáveis ao presente projeto, temos as seguintes indexações:
 
-* [PLAYLIST 163 vídeos  – 03.04.07.12.09 – Curso de Angular – Loiane Groner – Questões](PLAYLIST%20163%20vídeos%20%20–%2003.04.07.12.09%20–%20Curso%20de%20Angular%20–%20Loiane%20Groner%20–%20Questões.pdf)
-* [PLAYLIST 58 vídeos – 03.04.07.12.09 – CRUD Angular + Spring – Questões](PLAYLIST%2058%20vídeos%20–%2003.04.07.12.09%20–%20CRUD%20Angular%20+%20Spring%20–%20Questões.pdf)
+* [PLAYLIST 163 vídeos  – 03.04.07.12.09 – Curso de Angular – Loiane Groner – Questões](PLAYLIST%20163%20vídeos%20%20–%2003.04.07.12.09%20–%20Curso%20de%20Angular%20–%20Loiane%20Groner%20–%20Questões.pdf). Indexação imcompleta! Trabalho em progresso e sempre revitando para atualização dos conceitos para as novas verções do Angular!!
+* [PLAYLIST 58 vídeos – 03.04.07.12.09 – CRUD Angular + Spring – Questões](PLAYLIST%2058%20vídeos%20–%2003.04.07.12.09%20–%20CRUD%20Angular%20+%20Spring%20–%20Questões.pdf). Playlist totalmente indexada e relacionada com os questionários de contextos!
 
 --- 
 
