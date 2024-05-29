@@ -10,8 +10,8 @@ E **o objetivo é fortalecer a fixação do conceito e o seu uso prátino no pro
 
 Até o momento, aplicáveis ao presente projeto, temos as seguintes indexações:
 
-* [PLAYLIST 7 VÍDEOS – 03.04.07.12.16 – Curso Intensivo de React e Next 13 – Cod3r Cursos – Questões](PLAYLIST%207%20VÍDEOS%20–%2003.04.07.12.16%20–%20Curso%20Intensivo%20de%20React%20e%20Next%2013%20–%20Cod3r%20Cursos%20–%20Questões.pdf)
-* [VIDEO LONGO 13241 – 03.04.07.12.16 – ReactJs do zero – Transformando um HTML e CSS em React | Mão na massa - 016 – Questões](VIDEO%20LONGO%2013241%20–%2003.04.07.12.16%20–%20ReactJs%20do%20zero%20–%20Transformando%20um%20HTML%20e%20CSS%20em%20React%20|%20Mão%20na%20massa%20-%20016%20–%20Questões.pdf)
+* [PLAYLIST 163 vídeos  – 03.04.07.12.09 – Curso de Angular – Loiane Groner – Questões](PLAYLIST%20163%20vídeos%20%20–%2003.04.07.12.09%20–%20Curso%20de%20Angular%20–%20Loiane%20Groner%20–%20Questões.pdf)
+* [PLAYLIST 58 vídeos – 03.04.07.12.09 – CRUD Angular + Spring – Questões](PLAYLIST%2058%20vídeos%20–%2003.04.07.12.09%20–%20CRUD%20Angular%20+%20Spring%20–%20Questões.pdf)
 
 --- 
 

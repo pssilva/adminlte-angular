@@ -1,7 +1,6 @@
 # AdminLTE Angular (adminlte-angular)
 
-Converter o projeto [AdminLTE - Bootstrap 5 Admin Dashboard](https://github.com/ColorlibHQ/AdminLTE?tab=readme-ov-file#adminlte---bootstrap-5-admin-dashboard) 
-para um projeto [Angular Framework](https://angular.io/).
+Converter o projeto [AdminLTE - Bootstrap 5 Admin Dashboard](https://github.com/ColorlibHQ/AdminLTE?tab=readme-ov-file#adminlte---bootstrap-5-admin-dashboard) para um projeto [Angular Framework](https://angular.io/).
 
 Se trata de um projeto prático prova de conceito POC para deixar pegadas digitais e ser próativo para os processos seletivos onde as equipes técnicas de recrutadores tenham condições e evidências para verificar se o meu perfil pode atender as necessidades das oportunidades.
 
@@ -43,9 +42,10 @@ nvm install --lts
 ##############################################
 
 ##############################################
-# Instalação Typescript, Angular e o Next.js globalmente
+# Instalação Typescript, Angular 
 ##############################################
-npm install -g typescript Angular next
+export NG_CLI_VERSION="17.3.3"
+npm install -g typescript "@angular/cli@${NG_CLI_VERSION}"
 ##############################################
 
 ```
@@ -57,19 +57,18 @@ Para obter o presente projeto use os seguintes comandos:
 ```bash
 mkdir -p "${HOME}/projetos"
 cd "${HOME}/projetos"
-git clone https://github.com/pssilva/adminlte-Angular-next.git
-cd adminlte-Angular-next
+git clone https://github.com/pssilva/adminlte-angular.git
+cd adminlte-angular
 code .
 ```
 
 Em um terminal execute a aplicação com os seguintes linha de comandos:
 ```bash
-cd "${HOME}/projetos/adminlte-Angular-next"
-npm install 
-npm run dev
+cd "${HOME}/projetos/adminlte-Angular"
+ng serve
 ```
 
-Abra [http://localhost:3000](http://localhost:3000) com o seu navegador.
+Abra [http://localhost:4200/](http://localhost:4200/) com o seu navegador.
 
 ## Saiba Mais
 
