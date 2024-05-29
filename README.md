@@ -60,7 +60,7 @@ cd adminlte-angular
 code .
 ```
 
-Em um terminal execute a aplicação com os seguintes linha de comandos:
+Em um terminal execute a aplicação com os seguintes comandos:
 ```bash
 cd "${HOME}/projetos/adminlte-Angular"
 ng serve
@@ -70,12 +70,12 @@ Abra [http://localhost:4200/](http://localhost:4200/) com o seu navegador.
 
 ## Saiba Mais
 
-Para saber mais sobre Next.js, dê uma olhada nos seguintes recursos:
+Para saber mais sobre Angular Framework, dê uma olhada nos seguintes recursos:
 
-- [Next.js Documentation](https://nextjs.org/docs) - aprenda sobre os recursos e API do Next.js.
-- [Learn Next.js](https://nextjs.org/learn) - um tutorial interativo do Next.js.
+- [Angular Framework](https://angular.io/) - aprenda sobre os recursos e API do Angular Framework.
+- [Learn Angular tutorial](https://angular.dev/tutorials/learn-angular) - um tutorial interativo do Angular Framework.
 
-Você pode conferir [o repositório Next.js GitHub](https://github.com/vercel/next.js/) - seus comentários e contribuições são bem-vindos!
+Você pode conferir [o repositório Angular Framework](https://github.com/angular/angular) - seus comentários e contribuições são bem-vindos!
 
 ## Implantar no Vercel
 
