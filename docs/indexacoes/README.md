@@ -1,8 +1,8 @@
 # Indexação de Vídeos
 
-Indexação de vídeos é uma estratégia de aplicar técnicas de aprendizagem acelera (revisão espaçada). Onde se corta um vídeo de orientações técnica. Relacionando um momento do vídeo com um Tema (uma palavra-chave) onde se explica um conceito ou técnica de codificação.
+Indexação de vídeos é uma estratégia para se aplicar técnicas de aprendizagem acelera (revisão espaçada). Onde se corta um vídeo de orientações técnicas. Relacionando um momento do vídeo com um Tema (uma palavra-chave) onde se explica um conceito ou técnica de codificação.
 
-E depois se relaciona a indexação com um questionário de contexto onde se busca associar ou relacionar os conceitos com uma plano de ação operaiconal de trabalho. E com isso ter condição de criar scrits de automações ou mesmo aplicar o PDCA nas rotinas de trabalho já estabelacidas!
+E depois se relacionar a indexação com um questionário de contexto onde se busca associar ou relacionar os conceitos com uma plano de ação operaiconal de trabalho. E com isso ter condição de criar scritps de automação ou mesmo aplicar o PDCA nas rotinas de trabalho já estabelacidas!
 
 E **o objetivo é fortalecer a fixação do conceito e o seu uso prátino no projeto**! Criando uma forte relação entre os contextos / conceitos formando uma rede neural profunda e com uso realmente prático (empirismo) no dia a dia do trabalho operacioal!! E efetivametne agregar valor no equipe onde estamos atuando!
 

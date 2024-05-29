@@ -11,8 +11,6 @@ Procuro evidência as proficiências nas seguintes habilidades técnicas:
 - Técnicas em [Refatoração Código-fonte Legados](#FEATHERS-michael);
 - Stacks de [rotinas operacionais de Front-end]();
 
-
-
 Projeto inicializado com o [`ng new {{PROJECT_NAME}}`]().
 
 ## 🚀 Começando
@@ -180,6 +178,7 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md]()
   Expresso gratidão pelas contribuções para comunidade aos seguintes Canais do Youtube:
   - [loianegroner](https://www.youtube.com/@loianegroner)
   - [fernandev](https://www.youtube.com/@fernandev1)
+
 
 ---
 
