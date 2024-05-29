@@ -77,11 +77,11 @@ Para saber mais sobre Angular Framework, dê uma olhada nos seguintes recursos:
 
 Você pode conferir [o repositório Angular Framework](https://github.com/angular/angular) - seus comentários e contribuições são bem-vindos!
 
-## Implantar no Vercel
+## Implantar no Heroku
 
-A maneira mais fácil de implantar seu aplicativo Next.js é usar a [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) dos criadores do Next.js.
+A maneira mais fácil de implantar seu aplicativo Angular é usar a [Plataforma do Heroku](https://devcenter.heroku.com/start) dos criadores do [Os Doze Fatores (The Twelve-Factor App)](https://12factor.net/pt_br/).
 
-Confira nossa [documentação de implantação do Next.js](https://nextjs.org/docs/deployment) para mais detalhes.
+Confira [documentação de implantação do Heroku]((https://devcenter.heroku.com/start) para mais detalhes.
 
 ---
 
