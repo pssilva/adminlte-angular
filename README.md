@@ -81,7 +81,7 @@ Você pode conferir [o repositório Angular Framework](https://github.com/angula
 
 A maneira mais fácil de implantar seu aplicativo Angular é usar a [Plataforma do Heroku](https://devcenter.heroku.com/start) dos criadores do [Os Doze Fatores (The Twelve-Factor App)](https://12factor.net/pt_br/).
 
-Confira [documentação de implantação do Heroku]((https://devcenter.heroku.com/start) para mais detalhes.
+Confira [documentação de implantação do Heroku](https://devcenter.heroku.com/start) para mais detalhes.
 
 ---
 
