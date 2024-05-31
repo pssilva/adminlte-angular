@@ -1,6 +1,7 @@
 {
   "name": "adminlte-angular",
   "version": "0.0.1",
+  "license": "MIT",
   "author": "Paulo Sérgio da Silva <https://github.com/pssilva>",
   "main": "dist/js/adminlte.min.js",
   "scripts": {
@@ -37,6 +38,24 @@
     "watch-js-main": "nodemon --watch src/ts/ --ext ts --exec \"npm-run-all js-lint js-compile\"",
     "watch-assets": "nodemon --watch src/assets/ --exec \"npm run assets\""
   },
+  "keywords": [
+    "css",
+    "sass",
+    "responsive",
+    "admin",
+    "template",
+    "theme",
+    "framework",
+    "control-panel",
+    "dashboard"
+  ],
+  "homepage": "https://adminlte-angular.io",
+  "style": "dist/css/adminlte.css",
+  "sass": "src/scss/adminlte.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pssilva/adminlte-angular.git"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "^17.3.0",
@@ -63,6 +82,9 @@
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
+  },
+  "bugs": {
+    "url": "https://github.com/pssilva/adminlte-angular/issues"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^17.3.3",
