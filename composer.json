@@ -1,0 +1,25 @@
+{
+  "name": "pssilva/adminlte-angular",
+  "description": "AdminLTE Angular - admin control panel and dashboard that's based on Bootstrap 5",
+  "homepage": "https://adminlte-angular.io/",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "Paulo Sérgio"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/pssilva/adminlte-angular/issues"
+  }
+}
