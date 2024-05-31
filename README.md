@@ -95,12 +95,13 @@ Segue abaixo (não se limita) os objetivos do presente projeto:
 
 - [X] ~~Formatando documentação README.md~~
 - [X] ~~Indexação completa da playlist: [PLAYLIST 58 vídeos – 03.04.07.12.09 – CRUD Angular + Spring – Questões](docs/indexacoes/PLAYLIST%2058%20vídeos%20–%2003.04.07.12.09%20–%20CRUD%20Angular%20+%20Spring%20–%20Questões.pdf)~~ (mais detalhes veja [aqui](docs/indexacoes/README.md))
+- [X] ~~Conversão Arquivos de Configurações necessários~~
+- [X] ~~Conversão Pastas necessárias~~
 - [ ] Fatiar o Template HTML [AdminLTE - Bootstrap 5 Admin Dashboard](https://github.com/ColorlibHQ/AdminLTE?tab=readme-ov-file#adminlte---bootstrap-5-admin-dashboard) em componentes Angular
 - [ ] Convertendo tag HTML header em um componente Angular;
 - [ ] Abstrarir Componentes reutilizáveis especificos para o AdminETL
 - [ ] Converter funcionalidades jQuery para componentes Angular reutilizáveis
 - [ ] Implementar os rescursos do [Angular Framework](https://angular.io/)
-
 
 ### Atividades - DevOps
 
@@ -111,9 +112,11 @@ Segue abaixo (não se limita) os objetivos do presente projeto:
 - [ ] Implementar Arquitetura Orienta a Eventos ([EDA](https://aws.amazon.com/pt/what-is/eda/))
 
 ### Suporte / Sustentação
+
 - [ ] Abordagem API First e Implementação da Especificação do [OpenAPI (antido Swagger)](https://swagger.io/specification/) para integração com o back-end
 
 ### Segurança
+
 - [ ] Aplicar o checklist (veja [aqui](docs/checklists/README.md)) das [vulnerabilidades mais recorrentes (Top 10 OWASP (Open Web Application Security Project))](https://owasp.org/Top10/) nas dependências usadas na solução
 - [ ] implementar pentests para [vulnerabilidades Top 10 OWASP](https://owasp.org/Top10/)
 - [ ] [Spring Boot externalized configuration](https://docs.spring.io/spring-boot/reference/features/external-config.html): Externalização das configurações dos parâmetros de uma aplicação
@@ -167,7 +170,7 @@ Você também pode ver a lista de todos os [colaboradores](COLABORACAO.md) que p
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md]() para detalhes.
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
 
@@ -176,9 +179,9 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md]()
   Primeiro confesso aqui publicamente a minha gratidão ao Criado! E reconheço Jesus Cristo como o meu Senhor e Salvador! E que tudo é para honra e glória do Altissímo! Amém!! 📢
 
   Expresso gratidão pelas contribuções para comunidade aos seguintes Canais do Youtube:
-  - [loianegroner](https://www.youtube.com/@loianegroner)
-  - [fernandev](https://www.youtube.com/@fernandev1)
 
+- [loianegroner](https://www.youtube.com/@loianegroner)
+- [fernandev](https://www.youtube.com/@fernandev1)
 
 ---
 
