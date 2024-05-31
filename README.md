@@ -61,12 +61,23 @@ code .
 ```
 
 Em um terminal execute a aplicação com os seguintes comandos:
+
 ```bash
 cd "${HOME}/projetos/adminlte-Angular"
 ng serve
 ```
 
 Abra [http://localhost:4200/](http://localhost:4200/) com o seu navegador.
+
+Em um terminal execute a aplicação do AdminLTE com os seguintes comandos:
+
+```bash
+cd "${HOME}/projetos/adminlte-Angular"
+npm run compile
+npm run dev
+```
+
+Abra [http://localhost:3000/](http://localhost:3000/) com o seu navegador.
 
 ## Saiba Mais
 
