@@ -1,5 +1,6 @@
 {
   "name": "adminlte-angular",
+  "description": "Responsive open source admin dashboard and control panel. Convertido para o Angular Framework",
   "version": "0.0.1",
   "license": "MIT",
   "author": "Paulo Sérgio da Silva <https://github.com/pssilva>",
@@ -47,7 +48,8 @@
     "theme",
     "framework",
     "control-panel",
-    "dashboard"
+    "dashboard",
+    "angular"
   ],
   "homepage": "https://adminlte-angular.io",
   "style": "dist/css/adminlte.css",

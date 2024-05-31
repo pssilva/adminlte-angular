@@ -96,6 +96,13 @@ Confira [documentação de implantação do Heroku](https://devcenter.heroku.com
 
 ---
 
+## Template HTML AdminLTE
+
+<a href="https://github.com/ColorlibHQ/AdminLTE?tab=readme-ov-file#adminlte---bootstrap-5-admin-dashboard"><img src="docs/imgs/tela-adminlte.png" alt="Tela do AdminLTE" title="Tela do AdminLTE" style="width:475px; max-width: 100%;"/></a>
+
+
+---
+
 ## 🔩 Débitos Técnicos
 
 Aqui temos uma lista do que idenficamos com status de pendente:
@@ -108,6 +115,10 @@ Segue abaixo (não se limita) os objetivos do presente projeto:
 - [X] ~~Indexação completa da playlist: [PLAYLIST 58 vídeos – 03.04.07.12.09 – CRUD Angular + Spring – Questões](docs/indexacoes/PLAYLIST%2058%20vídeos%20–%2003.04.07.12.09%20–%20CRUD%20Angular%20+%20Spring%20–%20Questões.pdf)~~ (mais detalhes veja [aqui](docs/indexacoes/README.md))
 - [X] ~~Conversão Arquivos de Configurações necessários~~
 - [X] ~~Conversão Pastas necessárias~~
+- [ ] Fatiar, em componentes Angular reutilizáveis, os seguintes artefatos:
+  - `src/html/pages/index.astro`
+  - `src/html/pages/index2.astro`
+  - `src/html/pages/index3.astro`
 - [ ] Fatiar o Template HTML [AdminLTE - Bootstrap 5 Admin Dashboard](https://github.com/ColorlibHQ/AdminLTE?tab=readme-ov-file#adminlte---bootstrap-5-admin-dashboard) em componentes Angular
 - [ ] Convertendo tag HTML header em um componente Angular;
 - [ ] Abstrarir Componentes reutilizáveis especificos para o AdminETL
