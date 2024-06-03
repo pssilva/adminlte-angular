@@ -118,7 +118,7 @@ Segue abaixo (não se limita) os objetivos do presente projeto:
 - [X] ~~Fatiar o Template HTML [AdminLTE - Bootstrap 5 Admin Dashboard](https://github.com/ColorlibHQ/AdminLTE?tab=readme-ov-file#adminlte---bootstrap-5-admin-dashboard) em componentes Angular~~
 - [ ] Estilização do componente `src/app/components/app-header/app-header.component.ts`
 - [ ] Fatiar, em componentes Angular reutilizáveis, os seguintes artefatos:
-  - [X] `src/html/pages/index.astro`
+  - [X] ~~`src/html/pages/index.astro`~~
   - [ ] `src/html/pages/index2.astro`
   - [ ] `src/html/pages/index3.astro`
 - [ ] Convertendo tag HTML header em um componente Angular;
