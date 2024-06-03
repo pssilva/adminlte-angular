@@ -115,11 +115,12 @@ Segue abaixo (não se limita) os objetivos do presente projeto:
 - [X] ~~Indexação completa da playlist: [PLAYLIST 58 vídeos – 03.04.07.12.09 – CRUD Angular + Spring – Questões](docs/indexacoes/PLAYLIST%2058%20vídeos%20–%2003.04.07.12.09%20–%20CRUD%20Angular%20+%20Spring%20–%20Questões.pdf)~~ (mais detalhes veja [aqui](docs/indexacoes/README.md))
 - [X] ~~Conversão Arquivos de Configurações necessários~~
 - [X] ~~Conversão Pastas necessárias~~
+- [X] ~~Fatiar o Template HTML [AdminLTE - Bootstrap 5 Admin Dashboard](https://github.com/ColorlibHQ/AdminLTE?tab=readme-ov-file#adminlte---bootstrap-5-admin-dashboard) em componentes Angular~~
+- [ ] Estilização do componente `src/app/components/app-header/app-header.component.ts`
 - [ ] Fatiar, em componentes Angular reutilizáveis, os seguintes artefatos:
-  - `src/html/pages/index.astro`
-  - `src/html/pages/index2.astro`
-  - `src/html/pages/index3.astro`
-- [ ] Fatiar o Template HTML [AdminLTE - Bootstrap 5 Admin Dashboard](https://github.com/ColorlibHQ/AdminLTE?tab=readme-ov-file#adminlte---bootstrap-5-admin-dashboard) em componentes Angular
+  - [X] `src/html/pages/index.astro`
+  - [ ] `src/html/pages/index2.astro`
+  - [ ] `src/html/pages/index3.astro`
 - [ ] Convertendo tag HTML header em um componente Angular;
 - [ ] Abstrarir Componentes reutilizáveis especificos para o AdminETL
 - [ ] Converter funcionalidades jQuery para componentes Angular reutilizáveis
