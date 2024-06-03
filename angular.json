@@ -11,13 +11,13 @@
         }
       },
       "root": "",
-      "sourceRoot": "src",
+      "sourceRoot": "/",
       "prefix": "app",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/adminlte-angular",
+            "outputPath": "dist",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -27,7 +27,8 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "dist/css/adminlte.css"
             ],
             "styles": [
               "src/styles.scss"
@@ -87,7 +88,8 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "dist/css/adminlte.css"
             ],
             "styles": [
               "src/styles.scss"
