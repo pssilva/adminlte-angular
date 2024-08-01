@@ -1,6 +1,6 @@
 # AdminLTE Angular (adminlte-angular)
 
-Converter o projeto [AdminLTE - Bootstrap 5 Admin Dashboard](https://github.com/ColorlibHQ/AdminLTE?tab=readme-ov-file#adminlte---bootstrap-5-admin-dashboard) para um projeto [Angular Framework](https://angular.io/).
+Converter o projeto [AdminLTE (v3.2.0) - Bootstrap 5 Admin Dashboard](https://github.com/ColorlibHQ/AdminLTE/releases/tag/v3.2.0) para um projeto [Angular Framework](https://angular.io/).
 
 Se trata de um projeto prático prova de conceito POC para deixar pegadas digitais e ser próativo para os processos seletivos onde as equipes técnicas de recrutadores tenham condições e evidências para verificar se o meu perfil pode atender as necessidades das oportunidades.
 
@@ -126,6 +126,10 @@ Segue abaixo (não se limita) os objetivos do presente projeto:
 - [ ] Abstrarir Componentes reutilizáveis especificos para o AdminETL
 - [ ] Converter funcionalidades jQuery para componentes Angular reutilizáveis
 - [ ] Implementar os rescursos do [Angular Framework](https://angular.io/)
+- [ ] Realizar [Análise Exploratória](#da-analise-exploratoria) dos seguintes projetos Open-Source: 
+  - [ ] [AdminLTE (v3.2.0)](https://github.com/ColorlibHQ/AdminLTE/releases/tag/v3.2.0)
+  - [ ] [[TRABALHO EM PROGRESSO]]()
+
 
 ### Atividades - DevOps
 
@@ -154,9 +158,18 @@ Segue abaixo (não se limita) os objetivos do presente projeto:
 
 ### Mentalidade PDCA
 
-Tendo em mente que sempre buscamos melhorar o protocolo de trabalho operacinal do dia a dia usando empirismo (colocar realmente em prática os conheicmentos abstratos):
+Tendo em mente que sempre buscamos melhorar o protocolo de trabalho operacinal do dia a dia usando empirismo (colocar realmente em prática os conheicmentos abstratos)
+
+_**NOTA**_: Não se trata de ficar ditando regras no trabalho da equipe, mas sim melhorar o [meu operacional pessoal de trabalho](#da-analise-exploratoria) e com isso agregar valor melhorando a perfomance:
+
 
 <img src="docs/imgs/pdca.png" alt="PDCA: Aplicar na prática o empirismo" title="PDCA" style="width:475px;"/>
+
+--- 
+
+<a href="#FOWLER-Martin" id="da-analise-exploratoria">
+<img src="docs/imgs/DA - Análise de Repositório Genárico.drawio.png" alt="Diagrama: Documentação Elaboração do Diagrama de Atividade da Análise Exploratória Genérico" title="Documentação: Processo Genérico: Atividades da Análise Exploratória de um Repositório"/>
+</a>
 
 ---
 
